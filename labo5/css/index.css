@@ -1,0 +1,43 @@
+h1{
+
+    font-size: 25px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h2{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+span{
+
+    font-size: 20px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(226, 43, 180);
+  }
+
+  li {
+    font-size: 18px;
+}
+
+ul > li:nth-child(1) {
+    color: blue;
+}
+
+ul > li:nth-child(2) {
+    color:rgb(0, 162, 255);
+}
+
+ul > li:nth-child(3) {
+    color: rgb(153, 0, 255);
+}
+
+ul > li:nth-child(4) {
+    color: rgb(0, 255, 234);
+}
+
+ul > li:nth-child(5) {
+    color: rgb(4, 34, 75);
+}
+  
